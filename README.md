@@ -1,6 +1,12 @@
 # Donors_Choose_Project
 
-The different folder names mean the Implemented Machine Learning Model for this Dataset.
+Intially, the data was cleaned and preprocessed. The Features were extracted using the machine learning techiniques.
+
+For each of the mentioned models in the file name, considered 4 different texgt vectorization i.e., BoW( Bag of Words), TFIDF , Word2Vec and Avg Weighted Word2Vec.
+
+The reaults are clearly pointed out at the end of the each file for the variants considered.
+
+The  folder names indicate the Implemented Machine Learning Model for this Dataset.
 
 when running .py file, you will need to keep the data folder under the same directory of your .py file
 
